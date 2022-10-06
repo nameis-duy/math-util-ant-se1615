@@ -1,3 +1,5 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by nameis-duy](https://github.com/nameis-duy/math-util-ant-se1615/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/nameis-duy/math-util-ant-se1615/actions/workflows/ci-with-ant.yml)
+
 # Welcome to Math-Util Repository
 ## You will find in this repo the following stuff:
 * A Java Math Library to replicate a famous JDK library: Math class
