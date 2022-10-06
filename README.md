@@ -7,8 +7,8 @@
 
 
 ## Screenshots
-![]()
-![]()
+![Build Progress](https://github.com/nameis-duy/math-util-ant-se1615/blob/main/screenshots/build-progress-with-ant.png)
+![Source Code](https://github.com/nameis-duy/math-util-ant-se1615/blob/main/screenshots/source-code-with-junit.png)
 
-### Connect me via dphan2412@gmail.com
+### Contact me via dphan2412@gmail.com
 #### Copyright &#169; 2022 nameis-duy
